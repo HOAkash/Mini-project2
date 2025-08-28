@@ -1,0 +1,36 @@
+#search{
+    margin-left: 700px;
+    margin-top: 100px;
+}
+h1{
+    margin-left: 620px;
+    margin-top: 200px;
+}
+.but{
+    margin-left: 900px;
+    margin-top: -22px;
+}
+
+.display{
+   margin-left: 0px; 
+}
+.container{
+    margin:400px;
+    margin-top: 40px;
+    margin-left: 550px;
+    border-style:none;
+    padding-left: 100px;
+    padding-top: 30px;
+    width: 350px;
+    height: 200px;
+    box-shadow: 2px 4px black;
+    border-radius: 5%;
+    background-image: url("back1.avif");
+    background-size: cover;
+    color:crimson;
+    
+
+}
+.container:hover{
+    transform: scale(1.1);
+}
